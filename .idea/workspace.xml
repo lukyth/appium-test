@@ -805,7 +805,7 @@
       <option name="number" value="Default" />
       <updated>1456635926534</updated>
       <workItem from="1456635928461" duration="17515000" />
-      <workItem from="1456663347372" duration="399000" />
+      <workItem from="1456663347372" duration="464000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1456663540304</created>
@@ -849,7 +849,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17914000" />
+    <option name="totallyTimeSpent" value="17979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="398" y="23" width="1191" height="1057" extended-state="0" />
